@@ -1,8 +1,8 @@
 // TODO: add features
 
 export class Point {
-  x = 1000;
-  y = 100;
+  x = 10;
+  y = 10;
 
   scale(n: number): void {
     this.x *= n;
