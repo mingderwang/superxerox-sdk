@@ -32,7 +32,7 @@
     "build:docs": "typedoc --out docs --theme minimal src",
     "test": "jest --config jest.config.ts --coverage",
     "test:watch": "jest --config jest.config.ts --coverage --watch",
-    "test:prod": "npm run lint && npm run test -- --no-cache"
+    "test:prod": "npm run lint && npm run test -- --no-cache",
     "deploy": "npm run test:prod && np"
   },
   "lint-staged": {
