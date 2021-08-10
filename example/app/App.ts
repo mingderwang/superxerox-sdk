@@ -1,6 +1,8 @@
-import { add } from "superxerox-sdk";
+import { Point } from "superxerox-sdk";
 
 window.onload = () => {
-  const result = add(2,2)
-  document.body.textContent = result.toString();
+  const point = new Point()
+  console.log(point)
+  point.scale(3)
+  document.body.textContent = point.printX();
 };
