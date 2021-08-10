@@ -37,7 +37,7 @@
     "test:watch": "jest --config jest.config.ts --coverage --watch",
     "test:prod": "npm run lint && npm run test -- --no-cache",
     "deploy": "npm run test:prod && np",
-    "show:docs": "http-server docs"
+    "show:docs": "npm run build:docs && http-server docs"
   },
   "lint-staged": {
     "{src,test}/**/*.ts": [
