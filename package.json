@@ -1,5 +1,5 @@
 {
-  "name": "@nftaftermarket/superxerox-sdk",
+  "name": "superxerox-sdk",
   "version": "0.0.1",
   "description": "Superxerox v2 (NFT copy machine) js-sdk library",
   "keywords": [

@@ -10,7 +10,7 @@ Superxerox v2 (NFT copy machine) js-sdk library
 Installation:
 
 ```sh
-npm i @nftaftermarket/superxerox-sdk
+npm i superxerox-sdk
 ```
 
 <!-- TODO: add usage examples -->
