@@ -1,20 +1,21 @@
-# superxerox
+# Welcome!
 
-[![Deploy](https://github.com/mingderwang/superxerox-sdk/workflows/build/badge.svg)](https://github.com/mingderwang/superxerox-sdk/actions)
-[![Coverage Status](https://coveralls.io/repos/github/mingderwang/superxerox-sdk/badge.svg?branch=master)](https://coveralls.io/github/mingderwang/superxerox-sdk?branch=master)
+## Welcome to MyAPI
 
-Superxerox v2 (NFT copy machine) js-sdk library
+Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
-<!-- TODO: add extended examples -->
+## Want to jump right in?
 
-Installation:
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-```sh
-npm i superxerox-sdk
-```
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
+{% endcontent-ref %}
 
-<!-- TODO: add usage examples -->
+## Want to deep dive?
 
-Bootstrapped with: [create-ts-lib-gh](https://github.com/glebbash/create-ts-lib-gh)
+Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
-This project is [Mit Licensed](LICENSE).
+{% content-ref url="reference/api-reference/" %}
+[api-reference](reference/api-reference/)
+{% endcontent-ref %}
